@@ -288,7 +288,7 @@ Item # | Description | Completed
 2c | Full path to your working directory | :/c/Users/ludic/documents/learn-git-milestones
 2d | Link to `commit #3 from CLI` | <a href = "https://github.com/limilano/learn-git-milestones/commit/8f33b09ccf6ad07818ca9a20ddc1e00f4ae1af53">commit #3 from CLI</a>
 2e | 3rd Favorite emoji | :confounded:
-2f | Link to `commit #4 from Atom` |
+2f | Link to `commit #4 from Atom` | <a href = "https://github.com/limilano/learn-git-milestones/commit/69d1892be59911c3e4bd72287273d428496b5c05">commit #4 from Atom</a>
 3a | Link to `my-awesome-project` github.com repo page |
 4a | Link to `my-awesome-project` github.io "project site" |
 

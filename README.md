@@ -148,7 +148,7 @@ You should be able to ...
 	1. Local Path: Click "Choose" and add a new folder on your computer. This will be the base folder for your work in this class (e.g. `dig245-critical-web-design`, `dig250-game-development` )
 	1. Click "Clone" to make a local copy
 1. Open the repo in Atom: Repository > Open in Atom
-1. ✏️ In Atom, edit this README file and add your *second* favorite emoji to [completions](#completions).
+1. In Atom, edit this README file and add your *second* favorite emoji to [completions](#completions).
 1. In Github Desktop, view/confirm your edits to the README file on the Changes tab
 1. ✏️ Commit your changes directly to the main branch with the message `commit #2 from Github Desktop`. Using Atom, add a link to this commit on Github.com to [completions](#completions).
 1. Click Push origin to push your new commit to remote repo
@@ -283,7 +283,7 @@ Item # | Description | Completed
 1b | Link to `commit #1 from Github.com` | <a href = "https://github.com/limilano/learn-git-milestones/commit/c9b1ac9412c4338c6fb9adc1c542483e61e2df94">commit #1 from Github.com</a>
 1c | Link to markdown tables docs | <a href = "https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables">markdown table docs</a>
 1d | What does `log` do? | Shows commit log/history
-2a | 2nd Favorite emoji |
+2a | 2nd Favorite emoji | :tiger:
 2b | Link to `commit #2 from Github Desktop` |
 2c | Full path to your working directory |
 2d | Link to `commit #3 from CLI` |

@@ -150,7 +150,7 @@ You should be able to ...
 1. Open the repo in Atom: Repository > Open in Atom
 1. In Atom, edit this README file and add your *second* favorite emoji to [completions](#completions).
 1. In Github Desktop, view/confirm your edits to the README file on the Changes tab
-1. ✏️ Commit your changes directly to the main branch with the message `commit #2 from Github Desktop`. Using Atom, add a link to this commit on Github.com to [completions](#completions).
+1. Commit your changes directly to the main branch with the message `commit #2 from Github Desktop`. Using Atom, add a link to this commit on Github.com to [completions](#completions).
 1. Click Push origin to push your new commit to remote repo
 1. Confirm the changes to the README file were pushed: Choose Repository > View on Github
 1. Click on the README file and then click on History to see the history of this file
@@ -284,7 +284,7 @@ Item # | Description | Completed
 1c | Link to markdown tables docs | <a href = "https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables">markdown table docs</a>
 1d | What does `log` do? | Shows commit log/history
 2a | 2nd Favorite emoji | :tiger:
-2b | Link to `commit #2 from Github Desktop` |
+2b | Link to `commit #2 from Github Desktop` | <a href = "https://github.com/limilano/learn-git-milestones/commit/41491499e91e26fb4b25648a8561289ff61c902b">commit #2 from Github Desktop</a>
 2c | Full path to your working directory |
 2d | Link to `commit #3 from CLI` |
 2e | 3rd Favorite emoji |

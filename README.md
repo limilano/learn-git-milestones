@@ -76,8 +76,8 @@ Create a Github account and make your first commit on Github.com
 1. Fork this [learn-git-milestones](https://github.com/omundy/learn-git-milestones) repository (click the Fork button, top right).
 1. Edit this `README.md` file (click the pencil icon on the Github.com page) and add your favorite emoji to the [Completions](#completions) table, in the **Completed** column in appropriate row in the [completions](#completions), below.
 1. Commit changes to README.md to the `main` branch with the message `commit #1 from Github.com`.
-1. ✏️ Use [Markdown documentation](https://guides.github.com/features/mastering-markdown/) to add a link in [completions](#completions). The link text should be the same as the commit message, and the url should point to the Github.com page showing the above commit.
-1. ✏️ Tables can be a little tricky in Markdown. Find a good link explaining how to use markdown tables. Paste the link in the [Completions](#completions) table.
+1. Use [Markdown documentation](https://guides.github.com/features/mastering-markdown/) to add a link in [completions](#completions). The link text should be the same as the commit message, and the url should point to the Github.com page showing the above commit.
+1. Tables can be a little tricky in Markdown. Find a good link explaining how to use markdown tables. Paste the link in the [Completions](#completions) table.
 1. View the commit history and confirm your edits
 
 
@@ -98,7 +98,7 @@ Install your development environment
 ### Configure Git
 
 1. When you first install or start using Git, verify it is installed by typing `git` on the command line and hitting enter. This displays a help file with a list of possible commands.
- 	- ✏️ What does `log` do? Add your answer to [completions](#completions).
+ 	- What does `log` do? Add your answer to [completions](#completions).
 2. Then you should update the configuration. Add your name and email (replace with your information and press return after each line)
 
 ```bash
@@ -281,8 +281,8 @@ Item # | Description | Completed
 --- | --- | ---
 1a | 1st Favorite emoji | :hushed:
 1b | Link to `commit #1 from Github.com` | <a href = "https://github.com/limilano/learn-git-milestones/commit/c9b1ac9412c4338c6fb9adc1c542483e61e2df94">commit #1 from Github.com</a>
-1c | Link to markdown tables docs |
-1d | What does `log` do? |
+1c | Link to markdown tables docs | <a href = "https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables">markdown table docs</a>
+1d | What does `log` do? | Shows commit log/history
 2a | 2nd Favorite emoji |
 2b | Link to `commit #2 from Github Desktop` |
 2c | Full path to your working directory |

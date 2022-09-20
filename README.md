@@ -74,7 +74,7 @@ Create a Github account and make your first commit on Github.com
 
 1. [Create a Github account](https://github.com/join)
 1. Fork this [learn-git-milestones](https://github.com/omundy/learn-git-milestones) repository (click the Fork button, top right).
-1. ✏️ Edit this `README.md` file (click the pencil icon on the Github.com page) and add your favorite emoji to the [Completions](#completions) table, in the **Completed** column in appropriate row in the [completions](#completions), below.
+1. Edit this `README.md` file (click the pencil icon on the Github.com page) and add your favorite emoji to the [Completions](#completions) table, in the **Completed** column in appropriate row in the [completions](#completions), below.
 1. Commit changes to README.md to the `main` branch with the message `commit #1 from Github.com`.
 1. ✏️ Use [Markdown documentation](https://guides.github.com/features/mastering-markdown/) to add a link in [completions](#completions). The link text should be the same as the commit message, and the url should point to the Github.com page showing the above commit.
 1. ✏️ Tables can be a little tricky in Markdown. Find a good link explaining how to use markdown tables. Paste the link in the [Completions](#completions) table.
@@ -279,7 +279,7 @@ That is all that is required for this milestone. See the `ADVANCED.md` file if y
 
 Item # | Description | Completed
 --- | --- | ---
-1a | 1st Favorite emoji | ADD_TEXT_TO_THIS_COLUMN
+1a | 1st Favorite emoji | :hushed:
 1b | Link to `commit #1 from Github.com` |
 1c | Link to markdown tables docs |
 1d | What does `log` do? |

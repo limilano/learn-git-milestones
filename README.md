@@ -280,7 +280,7 @@ That is all that is required for this milestone. See the `ADVANCED.md` file if y
 Item # | Description | Completed
 --- | --- | ---
 1a | 1st Favorite emoji | :hushed:
-1b | Link to `commit #1 from Github.com` |
+1b | Link to `commit #1 from Github.com` | <a href = "https://github.com/limilano/learn-git-milestones/commit/c9b1ac9412c4338c6fb9adc1c542483e61e2df94">commit #1 from Github.com</a>
 1c | Link to markdown tables docs |
 1d | What does `log` do? |
 2a | 2nd Favorite emoji |

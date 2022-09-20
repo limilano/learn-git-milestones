@@ -203,7 +203,7 @@ You should be able to ...
 ## Part 3 – Create a new repository
 
 1. Create a repository from scratch
-  1. ✏️ In Github Desktop, create a new repository with the name: `my-awesome-project`
+  1. In Github Desktop, create a new repository with the name: `my-awesome-project`
   1. Local Path: Click "Choose" and create a new folder `my-awesome-project` inside the `<your-class-name-here>` folder you made above
   1. Click Create Repository
   1. This should now be your class folder's directory structure.
@@ -215,10 +215,10 @@ You should be able to ...
   ```
 
   1. Open your new repository in Atom (with Github Desktop or drag the `my-awesome-project` project folder onto the Atom icon in your dock)
-  1. ✏️ Add a README file: `README.md`
-  1. ✏️ In the README write your name and the date
-  1. ✏️ Use some [Markdown tags](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
-  1. ✏️ Commit your changes and add a link to this repo to [completions](#completions).
+  1. Add a README file: `README.md`
+  1. In the README write your name and the date
+  1. Use some [Markdown tags](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+  1. Commit your changes and add a link to this repo to [completions](#completions).
 
 
 
@@ -226,7 +226,7 @@ You should be able to ...
 ## Part 4 – Create a Github.io page
 Create a github.io site for your repository ...
 
-1. ✏️ Create a file called `index.html` in your new repo and add the following html
+1. Create a file called `index.html` in your new repo and add the following html
 
 ```html
 <!DOCTYPE html>
@@ -249,7 +249,7 @@ Create a github.io site for your repository ...
   1. Do not use a theme. Start from scratch
   1. Visit your project site at http://*username*.github.io/my-awesome-project
   1. Update your project, push a new commit, and confirm your updates (note: [changes are not always instant](https://github.com/omundy/dig245-a1/deployments/activity_log?environment=github-pages))
-  1. ✏️ Paste this link to [completions](#completions).
+  1. Paste this link to [completions](#completions).
 
 
 
@@ -289,8 +289,8 @@ Item # | Description | Completed
 2d | Link to `commit #3 from CLI` | <a href = "https://github.com/limilano/learn-git-milestones/commit/8f33b09ccf6ad07818ca9a20ddc1e00f4ae1af53">commit #3 from CLI</a>
 2e | 3rd Favorite emoji | :confounded:
 2f | Link to `commit #4 from Atom` | <a href = "https://github.com/limilano/learn-git-milestones/commit/69d1892be59911c3e4bd72287273d428496b5c05">commit #4 from Atom</a>
-3a | Link to `my-awesome-project` github.com repo page |
-4a | Link to `my-awesome-project` github.io "project site" |
+3a | Link to `my-awesome-project` github.com repo page | <a href = "https://github.com/limilano/cwd-my-awesome-project">my-awesome-project</a>
+4a | Link to `my-awesome-project` github.io "project site" | <a href = "https://limilano.github.io/cwd-my-awesome-project/index.html">project site</a>
 
 
 
